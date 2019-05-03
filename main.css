@@ -10,6 +10,7 @@ h1 {
     width: 100%;
 }
 
+/* NOTE: <ul>, <div>, and <li> are all 'display: flex' */
 ul {
     display: flex;
     flex-direction: row;
